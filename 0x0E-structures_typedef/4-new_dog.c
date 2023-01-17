@@ -7,7 +7,8 @@
  * @name: dogs name
  * @age: dogs age
  * @owner: the dogs owner
- * @Return: Pointer to new dog
+ * Return: new dog
+ *
  */
 
 dog_t *new_dog(char *name, float age, char *owner)
